@@ -1,0 +1,5 @@
+n,m = map(int,input().split())
+a = sorted(map(int,input().split()))
+ans = max(a[0],n-a[-1]-1)
+for i in range(1,m): ans = max(ans, (a[i]-a[i-1])//2)
+print(ans)
