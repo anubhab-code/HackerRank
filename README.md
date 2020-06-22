@@ -7,4 +7,4 @@
 
 [![My Progress](https://github.com/anubhab-code/HackerRank/blob/master/progress.png "My Progress")](http://hackerrank.com/anubhabswain69 "My Progress")
 
-#### (Click on the image to visit my profile.)
+##### (Click on the image to visit my profile.)
