@@ -44,4 +44,40 @@
 | **29**  | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem "Bitwise AND")  | [Day 29 - Bitwise AND.py](https://github.com/anubhab-code/HackerRank/blob/master/30%20Days%20of%20Code/Day%2029%20-%20Bitwise%20AND.py "Day 29 - Bitwise AND.py")  |
 
 
+## Python
+
+| Subdomain  | Challenge  | Solution  |
+| ------------ | ------------ | ------------ |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem "Say "Hello, World!" With Python")  | [Say Hello, World! With Python.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Say%20Hello%2C%20World!%20With%20Python.py "Say Hello, World! With Python.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem "Python If-Else")  | [Python If-Else.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Python%20If-Else.py "Python If-Else.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem "Arithmetic Operators")  | [Arithmetic Operators.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Arithmetic%20Operators.py "Arithmetic Operators.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem "Python: Division")  | [Python- Division.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Python-%20Division.py "Python- Division.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Loops](https://www.hackerrank.com/challenges/python-loops/problem "Loops")  | [Loops.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Loops.py "Loops.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem "Write a function")  | [Write a function.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Write%20a%20function.py "Write a function.py")  |
+| [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Print Function](https://www.hackerrank.com/challenges/python-print/problem "Print Function")  | [Print Function.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Print%20Function.py "Print Function.py")  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
+
 
