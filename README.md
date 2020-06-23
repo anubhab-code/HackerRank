@@ -79,6 +79,43 @@
 |   |   |   |
 
 
+## Problem Solving
+
+### Algorithms
+
+| Subdomain  | Challenge  | Solution  |
+| ------------ | ------------ | ------------ |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem "Solve Me First")  | [Solve Me First.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Solve%20Me%20First.py "Solve Me First.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem "Simple Array Sum")  | [Simple Array Sum.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Simple%20Array%20Sum.py "Simple Array Sum.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem "Compare the Triplets")  | [Compare the Triplets.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Compare%20the%20Triplets.py "Compare the Triplets.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem "A Very Big Sum")  | [A Very Big Sum.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/A%20Very%20Big%20Sum.py "A Very Big Sum.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem "Diagonal Difference")  | [Diagonal Difference.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Diagonal%20Difference.py "Diagonal Difference.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem "Plus Minus")  | [Plus Minus.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Plus%20Minus.py "Plus Minus.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Staircase](https://www.hackerrank.com/challenges/staircase/problem "Staircase")  | [Staircase.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Staircase.py "Staircase.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem "Mini-Max Sum")  | [Mini-Max Sum.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Mini-Max%20Sum.py "Mini-Max Sum.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem "Birthday Cake Candles")  | [Birthday Cake Candles.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Birthday%20Cake%20Candles.py "Birthday Cake Candles.py")  |
+| [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem "Time Conversion")  | [Time Conversion.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Time%20Conversion.py "Time Conversion.py")  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
 
 
 
