@@ -95,6 +95,39 @@
 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem "Mini-Max Sum")  | [Mini-Max Sum.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Mini-Max%20Sum.py "Mini-Max Sum.py")  |
 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem "Birthday Cake Candles")  | [Birthday Cake Candles.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Birthday%20Cake%20Candles.py "Birthday Cake Candles.py")  |
 | [Warmup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warmup")  | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem "Time Conversion")  | [Time Conversion.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Warmup/Time%20Conversion.py "Time Conversion.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem "Grading Students")  | [Grading Students.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Grading%20Students.py "Grading Students.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem "Apple and Orange")  | [Apple and Orange.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Apple%20and%20Orange.py "Apple and Orange.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem "Kangaroo")  | [Kangaroo.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Kangaroo.py "Kangaroo.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem "Between Two Sets")  | [Between Two Sets.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Between%20Two%20Sets.py "Between Two Sets.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem "Breaking the Records")  | [Breaking the Records.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Breaking%20the%20Records.py "Breaking the Records.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem "Birthday Chocolate")  | [Birthday Chocolate.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Birthday%20Chocolate.py "Birthday Chocolate.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem "Divisible Sum Pairs")  | [Divisible Sum Pairs.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Divisible%20Sum%20Pairs.py "Divisible Sum Pairs.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem "Migratory Birds")  | [Migratory Birds.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Migratory%20Birds.py "Migratory Birds.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem "Day of the Programmer")  | [Day of the Programmer.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Day%20of%20the%20Programmer.py "Day of the Programmer.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem "Bon Appétit")  | [Bon Appétit.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Bon%20App%C3%A9tit.py "Bon Appétit.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem "Sock Merchant")  | [Sock Merchant.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Sock%20Merchant.py "Sock Merchant.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem "Drawing Book")  | [Drawing Book.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Drawing%20Book.py "Drawing Book.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem "Counting Valleys")  | [Counting Valleys.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Counting%20Valleys.py "Counting Valleys.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem "Electronics Shop")  | [Electronics Shop.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Electronics%20Shop.py "Electronics Shop.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem "Cats and a Mouse")  | [Cats and a Mouse.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Cats%20and%20a%20Mouse.py "Cats and a Mouse.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -107,15 +140,3 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-
-
-
-
