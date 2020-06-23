@@ -55,6 +55,20 @@
 | [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Loops](https://www.hackerrank.com/challenges/python-loops/problem "Loops")  | [Loops.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Loops.py "Loops.py")  |
 | [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem "Write a function")  | [Write a function.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Write%20a%20function.py "Write a function.py")  |
 | [Introduction](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-introduction "Introduction")  | [Print Function](https://www.hackerrank.com/challenges/python-print/problem "Print Function")  | [Print Function.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Introduction/Print%20Function.py "Print Function.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem "sWAP cASE")  | [sWAP cASE.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/sWAP%20cASE.py "sWAP cASE.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem "String Split and Join")  | [String Split and Join.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/String%20Split%20and%20Join.py "String Split and Join.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [What is Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem "What's Your Name?")  | [What is Your Name.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/What's%20Your%20Name.py "What's Your Name.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem "Mutations")  | [Mutations.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Mutations.py "Mutations.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem "Find a string")  | [Find a string.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Find%20a%20string.py "Find a string.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem "String Validators")  | [String Validators.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/String%20Validators.py "String Validators.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem "Text Alignment")  | [Text Alignment.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Text%20Alignment.py "Text Alignment.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem "Text Wrap")  | [Text Wrap.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Text%20Wrap.py "Text Wrap.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem "Designer Door Mat")  | [Designer Door Mat.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Designer%20Door%20Mat.py "Designer Door Mat.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem "String Formatting")  | [String Formatting.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/String%20Formatting.py "String Formatting.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem "Alphabet Rangoli")  | [Alphabet Rangoli.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Alphabet%20Rangoli.py "Alphabet Rangoli.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem "Capitalize!")  | [Capitalize!.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Capitalize!.py "Capitalize!.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem "The Minion Game")  | [The Minion Game.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/The%20Minion%20Game.py "The Minion Game.py")  |
+| [Strings](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-strings "Strings")  | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem "Merge the Tools!")  | [Merge the Tools!.py](https://github.com/anubhab-code/HackerRank/blob/master/Python/Strings/Merge%20the%20Tools!.py "Merge the Tools!.py")  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -63,20 +77,7 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
 
 
 
