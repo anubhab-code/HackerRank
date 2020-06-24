@@ -1,0 +1,5 @@
+n=int(input())
+rs=input().strip()
+rs=list(map(int,rs.split(' ')))
+rs.sort()
+print(rs[int(n/2)])
