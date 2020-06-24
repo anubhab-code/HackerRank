@@ -124,10 +124,26 @@
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem "Sequence Equation")  | [Sequence Equation.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Sequence%20Equation.py "Sequence Equation.py")  |
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem "Jumping on the Clouds: Revisited")  | [Jumping on the Clouds.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Jumping%20on%20the%20Clouds.py "Jumping on the Clouds.py")  |
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem "Find Digits")  | [Find Digits.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Find%20Digits.py "Find Digits.py")  |
-| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
-| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
-| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
-| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem "Extra Long Factorials")  | [Extra Long Factorials.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Extra%20Long%20Factorials.py "Extra Long Factorials.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem "Append and Delete")  | [Append and Delete.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Append%20and%20Delete.py "Append and Delete.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem "Sherlock and Squares")  | [Sherlock and Squares.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Sherlock%20and%20Squares.py "Sherlock and Squares.py")  |
+| [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem "Library Fine")  | [Library Fine.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Library%20Fine.py "Library Fine.py")  |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|  [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
