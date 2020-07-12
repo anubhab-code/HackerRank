@@ -155,8 +155,22 @@
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem "Manasa and Stones")  | [Manasa and Stones.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Manasa%20and%20Stones.py "Manasa and Stones.py")  |
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem "Happy Ladybugs")  | [Happy Ladybugs.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Happy%20Ladybugs.py "Happy Ladybugs.py")  |
 | [Implementation](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation "Implementation")  | [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem "Strange Counter")  | [Strange Counter.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Implementation/Strange%20Counter.py "Strange Counter.py")  |
-|   |   |   |
-|   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
