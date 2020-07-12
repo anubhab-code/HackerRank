@@ -159,18 +159,28 @@
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem "CamelCase")  | [CamelCase.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/CamelCase.py "CamelCase.py")  |
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem "Strong Password")  | [Strong Password.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Strong%20Password.py "Strong Password.py")  |
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem "Two Characters")  | [Two Characters.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Two%20Characters.py "Two Characters.py")  |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem "Caesar Cipher")  | [Caesar Cipher.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Caesar%20Cipher.py "Caesar Cipher.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem "Mars Exploration")  | [Mars Exploration.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Mars%20Exploration.py "Mars Exploration.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem "HackerRank in a String!")  | [HackerRank in a String!.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/HackerRank%20in%20a%20String!.py "HackerRank in a String!.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem "Pangrams")  | [Pangrams.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Pangrams.py "Pangrams.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem "Weighted Uniform Strings")  | [Weighted Uniform Strings.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Weighted%20Uniform%20Strings.py "Weighted Uniform Strings.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem "Separate the Numbers")  | [Separate the Numbers.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Separate%20the%20Numbers.py "Separate the Numbers.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem "Funny String")  | [Funny String.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Funny%20String.py "Funny String.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem "Gemstones")  | [Gemstones.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Gemstones.py "Gemstones.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem "Alternating Characters")  | [Alternating Characters.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Alternating%20Characters.py "Alternating Characters.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem "Beautiful Binary String")  | [Beautiful Binary String.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Beautiful%20Binary%20String.py "Beautiful Binary String.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem "The Love-Letter Mystery")  | [The Love-Letter Mystery.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/The%20Love-Letter%20Mystery.py "The Love-Letter Mystery.py")  |
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
