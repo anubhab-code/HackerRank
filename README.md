@@ -170,12 +170,12 @@
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem "Alternating Characters")  | [Alternating Characters.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Alternating%20Characters.py "Alternating Characters.py")  |
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem "Beautiful Binary String")  | [Beautiful Binary String.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Beautiful%20Binary%20String.py "Beautiful Binary String.py")  |
 | [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem "The Love-Letter Mystery")  | [The Love-Letter Mystery.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/The%20Love-Letter%20Mystery.py "The Love-Letter Mystery.py")  |
-| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem "Palindrome Index")  | [Palindrome Index.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Palindrome%20Index.py "Palindrome Index.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Anagram](https://www.hackerrank.com/challenges/anagram/problem "Anagram")  | [Anagram.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Anagram.py "Anagram.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem "Making Anagrams")  | [Making Anagrams.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Making%20Anagrams.py "Making Anagrams.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem "Game of Thrones - I")  | [Game of Thrones - I.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Game%20of%20Thrones%20-%20I.py "Game of Thrones - I.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem "Two Strings")  | [Two Strings.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/Two%20Strings.py "Two Strings.py")  |
+| [Strings](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=strings "Strings")  | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem "String Construction")  | [String Construction.py](https://github.com/anubhab-code/HackerRank/blob/master/Problem%20Solving/Algorithms/Strings/String%20Construction.py "String Construction.py")  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
