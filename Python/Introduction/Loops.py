@@ -1,4 +1,3 @@
 if __name__ == '__main__':
-    n = int(input())
-    for i in range(n):
+    for i in range(int(input())):
         print(i**2)

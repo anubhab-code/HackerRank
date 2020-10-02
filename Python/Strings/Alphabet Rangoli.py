@@ -32,5 +32,4 @@ def print_rangoli(size):
         print(s.center(w,'-'))
 
 if __name__ == '__main__':
-    n = int(input())
-    print_rangoli(n)
+    print_rangoli(int(input()))
